@@ -2,7 +2,7 @@
 
 Unraveling Waze User Churn: Machine Learning for Retention Enhancement
 Journal Publication
-This repository hosts the published journal paper "Unraveling Waze User Churn: Machine Learning for Retention Enhancement," authored by Yashwanth Sai Arukuti. The study explores how machine learning (ML) techniques can be leveraged to analyze user behavior, predict churn, and enhance retention strategies for Waze users.
+This repository hosts the Accepted journal paper "Unraveling Waze User Churn: Machine Learning for Retention Enhancement," authored by Yashwanth Sai Arukuti. The study explores how machine learning (ML) techniques can be leveraged to analyze user behavior, predict churn, and enhance retention strategies for Waze users.
 
 📄 Access the full journal paper: https://icatecs.eai-conferences.org/2024/accepted-papers/ 
 
